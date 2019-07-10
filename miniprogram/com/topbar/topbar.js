@@ -36,12 +36,7 @@ Component({
    * 组件的方法列表
    */
   methods: {
-    bindchange: function (e) {
-      const that = this;
-      that.setData({
-        currentData: e.detail.current
-      })
-    },
+  
     //点击切换，滑块index赋值
     checkCurrent: function (e) {
       const that = this;

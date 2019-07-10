@@ -8,17 +8,25 @@
 
    display: flex;
    align-items: center;
-   
-   
+   padding-top: 20rpx;
+      padding-bottom: 20rpx;
+   padding-left: 40rpx;
+   letter-spacing:4rpx;
+     font-family:PingFang-SC-Bold;
+    
+font-weight:bold;
    }
 .topTabSwiper{
    border-bottom: 1px solid #ccc;
     }
 
 .tabBorer{
-  border-bottom: 1px solid #313EC9; 
-  color: #313EC9;
-  
+  border-bottom: 1px solid #26ACF5; 
+  color: #26ACF5;
+  font-family:PingFang-SC-Bold;
+font-weight:bold;
+ letter-spacing:4rpx;
+
   }
 
 
@@ -26,8 +34,7 @@
 {
   width: 40rpx;
   height: 40rpx;
-  padding-right: 20rpx;
-  padding-left: 40rpx;
+  padding-right: 10rpx;
   
 }
 

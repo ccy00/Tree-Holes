@@ -1,6 +1,7 @@
 {
   "usingComponents": {
 
-    "c-topbar":"/com/topbar/topbar"
+    "c-topbar":"/com/topbar/topbar",
+    "c-tx":"/com/tx/tx"
   }
 }
