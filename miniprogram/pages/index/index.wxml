@@ -1,0 +1,9 @@
+<!--pages/index/index.wxml-->
+
+<c-topbar text1="树洞广场" text2="我的树洞" bindtap="num"  img1="/img/tx.png" img2='/img/star.png' />
+
+<swiper current="{{currentData}}" class='swiper' style="height:600px;" duration="300"  easing-function="linear" bindchange='bindchange'>
+  <swiper-item><view class='swiper_con'>ghghghhj</view></swiper-item> 
+  <swiper-item><view class='swiper_con'>welcome come to 热点</view></swiper-item>
+
+</swiper>
